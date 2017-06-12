@@ -1,1 +1,1 @@
-I am a new text doc
+	this is a text doc
